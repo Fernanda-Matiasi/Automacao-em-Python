@@ -1,5 +1,5 @@
 # Automacao-em-Python
-Análise de Dados com Python. Desafio aprendido na semana de intensivão de Python pelo canal Hashtag Programação.
+Análise de Dados com Python. Desafio aprendido na semana "Intensivão de Python" pelo canal Hashtag Programação.
 Utilizando o editor Jupyter Notebook, para a realização do desenvolvimento da programação (no momento o código não roda em outros editores de texto como Visual Studio Code).
 
 Desafio apresentado:
