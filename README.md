@@ -12,7 +12,7 @@ Desafio apresentado:
    Passo 1: Importar a base de dados
    Passo 2: Visualizar a base de dados
     - Entender quais as informações tão disponíveis
-    - Descobrir as cagadas da base de dados
+    - Descobrir os erros da base de dados
    Passo 3: Tratamento de dados
     - Valores que estão reconhecidos de forma errada
     - Valores vazios (deletando as linhas e colunas vazias)
